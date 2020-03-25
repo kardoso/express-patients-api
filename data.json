@@ -1,0 +1,25 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "João",
+            "age": 12,
+            "weight": 42,
+            "height": 1.43,
+            "symptoms": [
+                "cough"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Laura",
+            "age": 18,
+            "weight": 58,
+            "height": 1.64,
+            "symptoms": [
+                "cough",
+                "fever"
+            ]
+        }
+    ]
+}
